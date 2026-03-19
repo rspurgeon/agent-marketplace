@@ -40,13 +40,13 @@
    ```json
    {
      "name": "my-plugin",
-     "source": "my-plugin",
+     "source": "./plugins/my-plugin",
      "version": "0.1.0",
      "description": "Brief description"
    }
    ```
 
-   The `source` field is relative to `pluginRoot` (`./plugins`), so just use the directory name.
+   The `source` field must be a relative path to the plugin directory (e.g., `./plugins/my-plugin`).
 
 5. Add a `README.md` in your plugin directory documenting prerequisites, available skills, and usage.
 

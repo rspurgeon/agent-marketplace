@@ -11,7 +11,7 @@
   "plugins": [
     {
       "name": "kong-brand",
-      "source": "kong-brand",
+      "source": "./plugins/kong-brand",
       "version": "0.1.0",
       "description": "Kong brand guidelines for generating and reviewing on-brand content"
     }
