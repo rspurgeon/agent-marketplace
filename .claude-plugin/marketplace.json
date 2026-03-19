@@ -1,10 +1,10 @@
 {
-  "name": "kong-agent-marketplace",
+  "name": "rspurgeon-agent-marketplace",
   "owner": {
-    "name": "Kong"
+    "name": "rspurgeon"
   },
   "metadata": {
-    "description": "Kong plugin marketplace for Claude Code",
+    "description": "Plugin marketplace for Claude Code",
     "version": "0.1.0",
     "pluginRoot": "./plugins"
   },

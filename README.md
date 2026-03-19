@@ -1,19 +1,19 @@
 # Kong Agent Marketplace
 
-A [Claude Code plugin marketplace](https://code.claude.com/docs/en/plugin-marketplaces) for Kong agent plugins.
+A [Claude Code plugin marketplace](https://code.claude.com/docs/en/plugin-marketplaces) for rspurgeon agent plugins.
 
 ## Installation
 
 Add this marketplace to Claude Code:
 
 ```shell
-/plugin marketplace add Kong/agent-marketplace
+/plugin marketplace add rspurgeon/agent-marketplace
 ```
 
 Then install individual plugins:
 
 ```shell
-/plugin install <plugin-name>@kong-agent-marketplace
+/plugin install <plugin-name>@rspurgeon-agent-marketplace
 ```
 
 ## Repository Structure

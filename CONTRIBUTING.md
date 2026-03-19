@@ -71,7 +71,7 @@ claude --plugin-dir ./plugins/my-plugin
 
 # Or add the full marketplace locally
 /plugin marketplace add ./path/to/agent-marketplace
-/plugin install my-plugin@kong-agent-marketplace
+/plugin install my-plugin@rspurgeon-agent-marketplace
 ```
 
 ## Plugin Guidelines
