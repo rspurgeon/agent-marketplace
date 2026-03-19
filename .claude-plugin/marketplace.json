@@ -1,0 +1,19 @@
+{
+  "name": "kong-agent-marketplace",
+  "owner": {
+    "name": "Kong"
+  },
+  "metadata": {
+    "description": "Kong plugin marketplace for Claude Code",
+    "version": "0.1.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "kong-brand",
+      "source": "kong-brand",
+      "version": "0.1.0",
+      "description": "Kong brand guidelines for generating and reviewing on-brand content"
+    }
+  ]
+}
